@@ -294,3 +294,19 @@ body{
         display: none;
     }
 }
+@media(max-width:333px){
+    .background{
+        background-size: contain;
+    }
+    .cn{
+        display: none;
+    }
+    .ul2{
+        width: 330px;
+    }
+}
+
+
+
+
+
