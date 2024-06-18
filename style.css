@@ -294,7 +294,7 @@ body{
         display: none;
     }
 }
-@media(max-width:333px){
+@media(max-width:353px){
     .background{
         background-size: contain;
     }
@@ -302,7 +302,7 @@ body{
         display: none;
     }
     .ul2{
-        width: 330px;
+        width: 350px;
     }
 }
 
